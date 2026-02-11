@@ -45,7 +45,7 @@ const Projects = () => {
         'Our team portfolio website showcasing our collective projects, skills, and achievements with smooth animations and interactive elements.',
       tags: ['JavaScript', 'Tailwind CSS', 'HTML'],
       github: 'https://github.com',
-      live: 'https://example.com',
+      live: 'https://lanesra-team-portfolio.vercel.app',
       image: '👥',
     },
     {
